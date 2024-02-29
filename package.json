@@ -9,7 +9,7 @@
     "preview": "astro preview",
     "astro": "astro",
     "predeploy": "npm run build ",
-    "deploy": "gh-pages -d ",
+    "deploy": "gh-pages -d .vscode",
   },
   "dependencies": {
     "@astrojs/check": "^0.5.6",
